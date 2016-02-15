@@ -1,0 +1,8 @@
+C:\Demos\Imprivata\CandidateCodingChallenge\CandidateCodingChallenge4Console\bin\Debug\CandidateCodingChallenge4Console.exe.config
+C:\Demos\Imprivata\CandidateCodingChallenge\CandidateCodingChallenge4Console\bin\Debug\CandidateCodingChallenge4Console.exe
+C:\Demos\Imprivata\CandidateCodingChallenge\CandidateCodingChallenge4Console\bin\Debug\CandidateCodingChallenge4Console.pdb
+C:\Demos\Imprivata\CandidateCodingChallenge\CandidateCodingChallenge4Console\obj\Debug\CandidateCodingChallenge4Console.csprojResolveAssemblyReference.cache
+C:\Demos\Imprivata\CandidateCodingChallenge\CandidateCodingChallenge4Console\obj\Debug\CandidateCodingChallenge4Console.exe
+C:\Demos\Imprivata\CandidateCodingChallenge\CandidateCodingChallenge4Console\obj\Debug\CandidateCodingChallenge4Console.pdb
+C:\Demos\Imprivata\CandidateCodingChallenge\CandidateCodingChallenge4Console\bin\Debug\Utilities.dll
+C:\Demos\Imprivata\CandidateCodingChallenge\CandidateCodingChallenge4Console\bin\Debug\Utilities.pdb

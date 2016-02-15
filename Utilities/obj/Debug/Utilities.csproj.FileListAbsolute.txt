@@ -1,0 +1,13 @@
+C:\Demos\Imprivata\CandidateCodingChallenge1Console\MergeArray\bin\Debug\MergeArray.dll
+C:\Demos\Imprivata\CandidateCodingChallenge1Console\MergeArray\bin\Debug\MergeArray.pdb
+C:\Demos\Imprivata\CandidateCodingChallenge1Console\MergeArray\obj\Debug\MergeArray.dll
+C:\Demos\Imprivata\CandidateCodingChallenge1Console\MergeArray\obj\Debug\MergeArray.pdb
+C:\Demos\Imprivata\CandidateCodingChallenge1Console\Utilities\bin\Debug\Utilities.dll
+C:\Demos\Imprivata\CandidateCodingChallenge1Console\Utilities\bin\Debug\Utilities.pdb
+C:\Demos\Imprivata\CandidateCodingChallenge1Console\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Demos\Imprivata\CandidateCodingChallenge1Console\Utilities\obj\Debug\Utilities.dll
+C:\Demos\Imprivata\CandidateCodingChallenge1Console\Utilities\obj\Debug\Utilities.pdb
+C:\Demos\Imprivata\CandidateCodingChallenge\Utilities\bin\Debug\Utilities.dll
+C:\Demos\Imprivata\CandidateCodingChallenge\Utilities\bin\Debug\Utilities.pdb
+C:\Demos\Imprivata\CandidateCodingChallenge\Utilities\obj\Debug\Utilities.dll
+C:\Demos\Imprivata\CandidateCodingChallenge\Utilities\obj\Debug\Utilities.pdb
