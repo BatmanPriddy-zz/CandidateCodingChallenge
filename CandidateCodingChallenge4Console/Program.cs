@@ -38,7 +38,7 @@ namespace CandidateCodingChallenge4Console
 
         static int GetIntValueWithinRange(int minVal, int maxVal)
         {
-            if (Utilities.ConsoleReader.IsIntInputValid(1, maxVal, Utilities.ConsoleReader.RangeType.IntVal))
+            if (Utilities.ConsoleReader.IsIntInputValid(minVal, maxVal, Utilities.ConsoleReader.RangeType.IntVal))
                 return Utilities.ConsoleReader.GetIntValue();
 
             return 0; //default value if conditional above fails for some reason
