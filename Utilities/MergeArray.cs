@@ -26,7 +26,7 @@ namespace Utilities
             {
                 //m parameter actually isn't necessary, as the arrays were prebuilt with their max sizes, and then passed into this method
                 //using Array Copy/Sort for this method, simply to give the programmer another option to combine and sort the array :)
-                combined = new int[a.Length + b.Length];
+                combined = new int[b.Length];
 
                 Array.Copy(a, combined, a.Length);
                 Array.Copy(b, 0, combined, a.Length, b.Length);
